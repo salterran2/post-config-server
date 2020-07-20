@@ -1,0 +1,3 @@
+config:
+  server:
+    user-key: Hello, from Config Server
